@@ -1,0 +1,34 @@
+{
+		"console": {
+			"scope": "javascript,typescript",
+			"prefix": "csl",
+			"body": [
+				"console.log(",
+			],
+			"description": "console.log"
+		},
+		"document.querySelector": {
+			"scope": "javascript,typescript",
+			"prefix": "dqs",
+			"body": [
+				"document.querySelector(",
+			],
+			"description": "document.querySelector"
+		},
+		"document": {
+			"scope": "javascript,typescript",
+			"prefix": "dc",
+			"body": [
+				"document",
+			],
+			"description": "document"
+		},
+		"const": {
+			"scope": "javascript,typescript",
+			"prefix": "cst",
+			"body": [
+				"const ",
+			],
+			"description": "const"
+		}
+}
